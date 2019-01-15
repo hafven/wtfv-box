@@ -1,6 +1,6 @@
 # wtfv-box
-##Hafven Event Feed Urls
-###rss
+## Hafven Event Feed Urls
+### rss
 https://hafven.de/programmkalendar/?format=rss
-###JSON
+### JSON
 https://hafven.de/programmkalendar/?format=json
